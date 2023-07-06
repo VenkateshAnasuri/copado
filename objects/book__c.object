@@ -53,6 +53,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+
     <fields>
         <fullName>book_id__c</fullName>
         <displayFormat>B-{0000}</displayFormat>
